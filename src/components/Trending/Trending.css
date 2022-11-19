@@ -1,0 +1,33 @@
+
+.trendingMain
+{
+    padding: 12px;
+    margin: 6px 0;
+}
+
+p
+{
+    margin-bottom: 3px !important;
+}
+
+
+.tranding_Header
+{
+    font-size: medium;
+
+}
+
+
+.tranding_TweetCount
+{
+    font-size: small;
+
+}
+
+.tranding_Text
+{
+    font-size: large;
+    font-weight: bold;
+
+}
+

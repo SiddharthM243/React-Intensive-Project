@@ -1,0 +1,57 @@
+[{
+    "authorName": "Elon Musk",
+    "authorImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+    "text":"FTX meltdown/ransack being tricked in real-time on twitter",
+    "time":"10h",
+    "handle":"@elonmusk",
+    "like":"56.5k",
+    "retweet": "100k",
+    "comments":"5k"
+
+},
+{
+    "authorName": "Bill Gates",
+    "authorImg": "https://pbs.twimg.com/profile_images/1564398871996174336/M-hffw5a_400x400.jpg",
+    "text":"Africa has always been at the heart of our foundation’s mission. Today, we are announcing our commitment of $7 billion over the next 4 years for the development of more breakthrough innovations in health and agriculture across the continent.",
+    "time":"2h",
+    "handle":"@BillGates",
+    "like":"66.5k",
+    "retweet": "160k",
+    "comments":"12k"
+
+},
+{
+    "authorName": "Elon Musk",
+    "authorImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+    "text":"How do you make a small fortune in social media?  Start out with a large one.",
+    "time":"9h",
+    "handle":"@elonmusk",
+    "like":"70.5k",
+    "retweet": "70k",
+    "comments":"10k"
+
+},
+{
+    "authorName": "Bill Gates",
+    "authorImg": "https://pbs.twimg.com/profile_images/1564398871996174336/M-hffw5a_400x400.jpg",
+    "text":"I believe everyone has a role to play in addressing climate change. Whether you’re an entrepreneur, an inventor, or consumer, we can all help avoid a climate disaster.",
+    "time":"7h",
+    "handle":"@BillGates",
+    "like":"77.5k",
+    "retweet": "169k",
+    "comments":"19k"
+
+},
+{
+    "authorName": "Dhoni MSDhoni fan Club",
+    "authorImg": "https://pbs.twimg.com/profile_images/1006857586610753537/hHoBRHEz_400x400.jpg",
+    "text":"Thala finishes off in style! 7⃣⚡Twitter continues the stride...",
+    "time":"15h",
+    "handle":"@MSD_Cricbuzz",
+    "like":"77.5k",
+    "retweet": "169k",
+    "comments":"19k"
+
+}
+
+]

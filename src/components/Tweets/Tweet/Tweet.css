@@ -1,0 +1,40 @@
+.tweetMain
+{
+    display: flex;
+    padding: 12px;
+}
+
+.leftbox{
+    width: 20%;
+}
+
+.content-box
+{
+    margin-left: 3%;
+    width: 90%;
+    
+}
+
+.tweetContent{
+    padding: 0 12px 12px;
+
+}
+
+
+.tweet-footer{
+    font-size: smaller;
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+img{
+    height: 56px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.tweetText{
+    font-size: smaller;
+}
