@@ -15,9 +15,9 @@ function NewTweet() {
                 onClick={handleShow} data-bs-toggle="modal" data-bs-target="#exampleModal" className="tweet-btn">Tweet</button>
             <Modal show={show}>
                 <Modal.Header closeButton>
-                    <Modal.Title>Modal heading</Modal.Title>
+                    <Modal.Title>Twitter App</Modal.Title>
                 </Modal.Header>
-                <Modal.Body>Woohoo, you're reading this text in a modal!</Modal.Body>
+                <Modal.Body>Welcome to Twitter Application</Modal.Body>
                 <Modal.Footer>
                     <Button variant="secondary" onClick={handleClose}>
                         Close
